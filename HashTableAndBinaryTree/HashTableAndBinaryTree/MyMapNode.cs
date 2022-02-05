@@ -8,6 +8,7 @@ namespace HashTableAndBinaryTree
 {
     class MyMapNode<K, V>
     {
+
         private int size;
         private LinkedList<KeyValue<K, V>>[] items;
 
