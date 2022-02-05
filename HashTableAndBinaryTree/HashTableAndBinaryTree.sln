@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTableAndBinaryTree", "HashTableAndBinaryTree\HashTableAndBinaryTree.csproj", "{53168F10-33F1-4EC8-B2E3-3751F0A8B44F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53168F10-33F1-4EC8-B2E3-3751F0A8B44F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53168F10-33F1-4EC8-B2E3-3751F0A8B44F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53168F10-33F1-4EC8-B2E3-3751F0A8B44F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53168F10-33F1-4EC8-B2E3-3751F0A8B44F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A872D81F-D322-4C66-93A2-55391974F982}
+	EndGlobalSection
+EndGlobal
