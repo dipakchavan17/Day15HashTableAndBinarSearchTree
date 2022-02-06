@@ -27,6 +27,7 @@ namespace HashTableAndBinaryTree
             Console.WriteLine("Binary Search Tree ");
             bst.Display();
             bst.Size();
+            bool find = bst.search(63, bst);
             Console.ReadLine();
         }
     }
